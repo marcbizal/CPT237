@@ -1,0 +1,4 @@
+Cab ID,Start Date,End Date,Gross Earnings,Gas Cost,Service Cost,Net Earnings,Total Miles,Services Performed,Average Service,Max Service
+Orig-Cab,2015/10/01,2015/10/06,163.95,28.35,25.00,110.60,270.00,1,0.00,0
+SUVCab,2015/10/01,2015/10/19,377.64,54.00,135.00,188.64,625.00,3,9.00,11
+ToyotaCab,2015/10/02,2015/10/08,335.60,50.58,30.00,255.02,560.00,2,6.00,6
